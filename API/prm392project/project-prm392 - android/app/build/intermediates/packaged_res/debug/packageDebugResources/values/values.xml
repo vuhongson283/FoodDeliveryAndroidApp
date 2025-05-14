@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="colorAccent">#22c55e</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#666666</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Project PRM392</string>
+    <string name="my_map_api_key">AIzaSyAhKdlpg0t2Q33IDz55I4-m9QDVPy2CBDE</string>
+    <style name="Base.Theme.ProjectPRM392" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ProjectPRM392" parent="Base.Theme.ProjectPRM392"/>
+</resources>

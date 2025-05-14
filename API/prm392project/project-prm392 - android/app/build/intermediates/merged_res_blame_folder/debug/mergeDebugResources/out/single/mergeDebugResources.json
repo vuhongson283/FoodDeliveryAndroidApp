@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_home.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_cart_item.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/cart_item.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_custom_order_history_card.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/custom_order_history_card.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_google.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/google.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/menu_menu_google_map_type.xml.flat",
+        "source": "prm392.project.app-main-38:/menu/menu_google_map_type.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_visibility_off.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_visibility_off.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_edittext_background.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_facebook.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/facebook.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_bg_search_view.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/bg_search_view.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "prm392.project.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_background_1.jpeg.flat",
+        "source": "prm392.project.app-main-38:/drawable/background_1.jpeg"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_order_history.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_rounded_edit_text.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/rounded_edit_text.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_icon_plus.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/icon_plus.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_home_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_check.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_check.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/font_cormorantgaramond_bold_font.ttf.flat",
+        "source": "prm392.project.app-main-38:/font/cormorantgaramond_bold_font.ttf"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_custom_food_card.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/custom_food_card.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/menu_bottom_navigation_menu.xml.flat",
+        "source": "prm392.project.app-main-38:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_badge_background.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_register.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_pr_icon.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/pr_icon.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/font_greate_vibe_font.ttf.flat",
+        "source": "prm392.project.app-main-38:/font/greate_vibe_font.ttf"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_food.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/food.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_rounded_image_background.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/rounded_image_background.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_custom_button.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_profile.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_icon_cart.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/icon_cart.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_order.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_order.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_food_detail.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "prm392.project.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_icon_minus.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/icon_minus.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_qrcode.jpg.flat",
+        "source": "prm392.project.app-main-38:/drawable/qrcode.jpg"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_back.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_back.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_custom_search_bar.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/custom_search_bar.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_button_background.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/button_background.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_location_on_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_order_button.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/order_button.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_login_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_login_24.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_google_maps.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_google_maps.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_cart_list.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_cart_list.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_salah.jpg.flat",
+        "source": "prm392.project.app-main-38:/drawable/salah.jpg"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_layout_chat.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/layout_chat.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/menu_option_menu.xml.flat",
+        "source": "prm392.project.app-main-38:/menu/option_menu.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_success.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_success.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_checkout_item.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/checkout_item.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_payment_success.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_payment_success.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_menu_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "prm392.project.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_rounded_button.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "prm392.project.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "prm392.project.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_ic_visibility.png.flat",
+        "source": "prm392.project.app-main-38:/drawable/ic_visibility.png"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "prm392.project.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "prm392.project.app-debug-36:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "prm392.project.app-main-38:/drawable/baseline_person_pin_24.xml"
+    }
+]
